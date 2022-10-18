@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 2
 3
 4
+example
