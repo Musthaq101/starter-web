@@ -1,1 +1,3 @@
 .dbstore
+*.log
+log/
