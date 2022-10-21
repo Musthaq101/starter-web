@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 4
 example
 This is just an example repo for learning purpose
+
+Please study
