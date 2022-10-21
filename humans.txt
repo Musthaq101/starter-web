@@ -1,3 +1,4 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
@@ -10,6 +11,7 @@
 
     Thanks for studying, please study hard, with out gap.
     changes before conflict in the master branch
+    completed
 
 # TECHNOLOGY COLOPHON
 
