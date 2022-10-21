@@ -14,3 +14,4 @@ example
 This is just an example repo for learning purpose
 
 Please study
+changes made in the master branch
