@@ -3,7 +3,7 @@
 
 # TEAM
 
-    test. this is a merger commit from masters
+    test, this is a merge update
 
 # THANKS
 
